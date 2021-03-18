@@ -1,2 +1,2 @@
 # DIO.Series
-Programa simples de cadastro em .NET
+Programa simples de cadastro de séries em .NET
